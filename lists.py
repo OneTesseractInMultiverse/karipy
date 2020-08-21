@@ -54,6 +54,28 @@ for row in matrix:
 	print(row_str)
 	
 print(matrix[2][3])
+
+
+# TAREA!
+'''
+Modificar el codigo anterior para que imprima una matriz en la que si el numero de columna es par entonces ponga un 0 
+y si el numero de columa es impar entonces ponga un 1:
+
+[0][1][0][1][0]
+[0][1][0][1][0]
+[0][1][0][1][0]
+[0][1][0][1][0]
+[0][1][0][1][0]
+
+Modificar el codigo anterior para que genere la siguiente matriz:
+
+[1][0][0][0][0]
+[0][1][0][0][0]
+[0][0][1][0][0]
+[0][0][0][1][0]
+[0][0][0][0][1]
+
+'''
 	
 		
 		
